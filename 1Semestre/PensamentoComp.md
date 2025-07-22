@@ -1,0 +1,3 @@
+# Pensamento Computacional
+**Resumo da matéria:**
+* O pensamento computacional é uma abordagem de resolução de problemas que envolve a formulação de problemas e a expressão de suas soluções de forma que um computador, seja ele humano ou máquina, possa executá-las de maneira eficaz. É uma habilidade essencial no mundo contemporâneo, usada não apenas para a programação, mas também em diversas áreas do conhecimento. 
