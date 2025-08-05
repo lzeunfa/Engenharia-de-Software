@@ -47,3 +47,5 @@
 **Um sistema de qualidade não depende apenas de programar certo, é preciso prever erros, saber como reagir quando eles acontecem, validar tudo o que o usuário envia e testar de forma cuidadosa o que foi desenvolvido.**
 ***
 Este foi um resumo sobre o que trata-se na matéria pensamento computacional!
+**Opinião:**
+ * Apesar da matéria parecer sobre filosofia ou inútil (pensamento que tive no começo não sei se foi por conta do professor), recomendo que a trate como importante pois trará uma mudança na sua forma de pensar e resolver problemas. Ajuda seu raciocínio e agrega quando você for criar seus projetos!
