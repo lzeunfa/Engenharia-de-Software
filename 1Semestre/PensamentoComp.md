@@ -44,7 +44,7 @@
 * Boas práticas:
   * Simplicidade na solução, agir defensivamente, planejamento em pseudocodigo, avaliação de gravidade, análise de tipo de sistema, verificação de entrada do usuário, sistematização de testes em solução.
 
-**Um sistema de qualidade não depende apenas de programar certo, é preciso prever erros, saber como reagir quando eles acontecem, validar tudo o que o usuário envia e testar de forma cuidadosa o que foi desenvolvido.**
+"**Um sistema de qualidade não depende apenas de programar certo, é preciso prever erros, saber como reagir quando eles acontecem, validar tudo o que o usuário envia e testar de forma cuidadosa o que foi desenvolvido.**"
 ***
 Este foi um resumo sobre o que trata-se na matéria pensamento computacional!
 **Opinião:**
