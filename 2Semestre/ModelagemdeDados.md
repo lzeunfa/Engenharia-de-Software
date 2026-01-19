@@ -20,6 +20,7 @@ Ela serve como ponte entre o mundo real e o banco de dados.
 * Normalização
 * Modelagem e SGBD
 ***
-Este foi um resumo sobre o que trata-se na matéria modelagem de dados!
+Este foi um resumo sobre o que trata-se na matéria modelagem de dados! <br>
 **Opinião:**
 * Até o momento foi a matéria online que eu mais gostei, para quem tem interesse na área de dados vai gostar bastante e vale a pena dar uma atenção para quem é do back end também!
+
