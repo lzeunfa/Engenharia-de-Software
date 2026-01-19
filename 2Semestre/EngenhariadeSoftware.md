@@ -13,6 +13,7 @@
   * Kanban.
 * Estudo de caso.
 ***
-Este foi um resumo sobre o que trata-se na matéria engenharia de software!
+Este foi um resumo sobre o que trata-se na matéria engenharia de software! <br>
 **Opinião:**
 * A matéria foi muito tranquila, tenho minhas dúvidas em relação a minha nota por ter sido uma matéria tranquila, teórica e com trabalhos em equipe mas foi minha menor nota até agora. É uma matéria muito interessante para se desenvolver como algo além de um programador que só faz código e se tornar um engenheiro de software.
+
