@@ -49,6 +49,7 @@
 * No fim do semestre foi passado o projeto de avaliação final em que os alunos deveriam criar um crud com interação de no mínimo duas tabelas, onde criei um sistema de sáude básico! (código disponível no meu github).
  
 ***
-Este foi um resumo sobre o que trata-se na matéria programação web!
+Este foi um resumo sobre o que trata-se na matéria programação web! <br>
 **Opinião:**
  * O nome da matéria me deixou bem empolgado quando vi na grade horário, eu creio que a matéria pode ser melhor dependendo do professor mas comigo a experiência foi de que quase não teve explicação sobre o código e foram mais umas aulas em que o professor apenass escrevia o código e a gente copiava, por sorte na época eu já estava estudando sobre tudo isso em um curso externo. Fora isso a matéria é boa e te passa bons conceitos de lógica de programação, programação front end e web e interação com banco de dados! Estudem por fora!
+
